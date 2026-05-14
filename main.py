@@ -1,6 +1,7 @@
 # Define the function
 def number_pattern(n):
-    
+   
+   # Initialize an empty string to build the pattern 
     pattern = ""
 
     # Loop from 1 up to n (inclusive)
